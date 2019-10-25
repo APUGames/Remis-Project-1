@@ -200,7 +200,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Battle 1.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "755a10f9-87d7-4ead-aef9-d07bfaef8f1b",
@@ -210,7 +210,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Battle 2.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "fbb9be49-60b3-4411-8ceb-aebeac07a08c",
@@ -220,7 +220,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Battle 3.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "6fad1892-bcb2-4924-bd1c-1e4d03dfeabb",
@@ -230,7 +230,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "7f6672b2-55b6-4a90-831f-597dd5e04719",
@@ -240,7 +240,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Coliesuem.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -250,7 +250,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -260,7 +260,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1571970585733
+            "_v": 1572020107346
         },
         {
             "id": "802ac30c-b647-4643-a575-394c57c0174b",
@@ -270,7 +270,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Maze.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -280,7 +280,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "0b843f0c-edcb-48b7-93af-94753f473263",
@@ -290,7 +290,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Museum Decos.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "4ac14eaa-f518-45c3-b153-ccfaee54c701",
@@ -300,7 +300,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Museum Room 1.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
@@ -310,7 +310,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "3339a95d-05bc-4576-8b2a-828df19ab5e9",
@@ -320,7 +320,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Senate House.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -330,7 +330,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "58b3067f-a473-4b06-b3bc-5257163c03b3",
@@ -340,7 +340,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Thief Battle.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "f047ff0e-58ad-49fc-bd2b-ec84fc1f7ab3",
@@ -350,7 +350,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -360,7 +360,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1571970585734
+            "_v": 1572020107346
         }
     ],
     "spriteSheets": [
@@ -370,7 +370,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "Broken_Glass.png",
-            "_v": 1571970585740
+            "_v": 1572020107353
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -378,7 +378,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "6543bbd8-a84b-4447-808c-7bc4b54595f6",
@@ -386,7 +386,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "Ceaser.png",
-            "_v": 1571970585740
+            "_v": 1572020107353
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -394,7 +394,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -402,7 +402,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -410,7 +410,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -418,7 +418,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "bda65ae1-98d9-4e09-b12b-876c7223911e",
@@ -426,7 +426,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Guard.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -434,7 +434,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "e3eea6e0-ff14-477d-aceb-66a1e9a56691",
@@ -442,7 +442,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "Ninja.png",
-            "_v": 1571970585740
+            "_v": 1572020107354
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -450,7 +450,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -458,7 +458,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -466,7 +466,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -474,7 +474,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -482,7 +482,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -490,7 +490,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
@@ -498,7 +498,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sage.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -506,7 +506,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -514,7 +514,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "7bc94b23-cf3d-432f-8631-a1f4032bfcfc",
@@ -522,7 +522,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "Tablet.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -530,7 +530,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1571970585740
+            "_v": 1572020107355
         }
     ],
     "scenes": [
@@ -834,7 +834,7 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "Did you just...",
+                                            "Did you just?...",
                                             "Hey stop you\nthief!"
                                         ]
                                     }
@@ -1238,7 +1238,7 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "This tablet was\nbuilt in\ndedication to...",
+                                            "This tablet was\nbuilt in\ndedication to",
                                             "Mercury god of\nlanguage."
                                         ]
                                     }
@@ -1361,7 +1361,7 @@
                             "command": "EVENT_IF_TRUE",
                             "args": {
                                 "variable": "15",
-                                "__collapseElse": true
+                                "__collapseElse": false
                             },
                             "true": [
                                 {
@@ -1385,7 +1385,7 @@
                                     "id": "f6698bd5-3b59-4222-932f-1138143a8c75",
                                     "command": "EVENT_TEXT",
                                     "args": {
-                                        "text": "Maybe I should\ncheck out the\ngreek tablet."
+                                        "text": "Maybe I should\ncheck out the\nother tablet."
                                     }
                                 },
                                 {
@@ -1760,9 +1760,9 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "I don't know about\nany locked\ndoors but the...",
-                                                    "...guy your\nlooking for said\nsomething...",
-                                                    "... about a\nPythagoras"
+                                                    "I don't know about\nany locked\ndoors but the",
+                                                    "guy your\nlooking for said\nsomething...",
+                                                    "about a\nPythagoras."
                                                 ]
                                             }
                                         },
@@ -2089,7 +2089,7 @@
                                     "id": "16ab9fb4-2c27-412c-a957-6ffdd31ae790",
                                     "command": "EVENT_TEXT",
                                     "args": {
-                                        "text": "Geia sou xéne"
+                                        "text": "Geia sou xéne!"
                                     }
                                 },
                                 {
@@ -2116,9 +2116,9 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "yes, I have a key\nto a door that\nhe...",
-                                            "...asked me to\nhold on to, I'll\ngive it to...",
-                                            "you if you answer\na few questions."
+                                            "yes, I have a key\nto a door that\nhe asked",
+                                            "me to\nhold on to, I'll\ngive it to you",
+                                            "if you answer\na few questions."
                                         ]
                                     }
                                 },
@@ -2126,7 +2126,7 @@
                                     "id": "9bbc0887-088d-4cc9-806c-e06e60986053",
                                     "command": "EVENT_TEXT",
                                     "args": {
-                                        "text": "are you ready?"
+                                        "text": "Are you ready?"
                                     }
                                 },
                                 {
@@ -2151,9 +2151,10 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "Last question. I\nhave been trying\nto find the...",
-                                                    "equation for the\nthird side of a\ntriangle...",
-                                                    "I have gotten down\nto two things\nwhich is it?"
+                                                    "Last question. I\nhave been trying\nto find the",
+                                                    "equation for the\nthird side of a\ntriangle",
+                                                    "I have gotten down\nto two\npossible things.",
+                                                    "Which is it?"
                                                 ]
                                             }
                                         },
@@ -2279,6 +2280,13 @@
                                                 }
                                             ],
                                             "false": [
+                                                {
+                                                    "id": "8df1dfe6-939b-469c-be8c-dbdd59463cb8",
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": "Sorry, try again."
+                                                    }
+                                                },
                                                 {
                                                     "id": "7c3d6a04-e225-44d9-9c86-85b4edd148c1",
                                                     "command": "EVENT_END"
@@ -2646,8 +2654,8 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "Hello if you ever\nneed to be healed\nafter a fight...",
-                                            "...in the Coliseum\ncome to me."
+                                            "Hello if you ever\nneed to be healed\nafter a fight",
+                                            "in the Coliseum\ncome to me."
                                         ]
                                     }
                                 },
@@ -2850,7 +2858,7 @@
                 0,
                 0,
                 255,
-                248,
+                255,
                 31,
                 136,
                 128,
@@ -3117,16 +3125,6 @@
                                             }
                                         },
                                         {
-                                            "id": "3ad6cc29-5bb6-4f11-aabf-3f6354df7117",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": [
-                                                    "Block! You took\nreduced damage.",
-                                                    "You have $23$\nhealth remaining."
-                                                ]
-                                            }
-                                        },
-                                        {
                                             "id": "fea8d192-2f9e-4b84-a1e5-91ba802b3b12",
                                             "command": "EVENT_VARIABLE_MATH",
                                             "args": {
@@ -3137,6 +3135,16 @@
                                                 "value": 3,
                                                 "minValue": "0",
                                                 "maxValue": "255"
+                                            }
+                                        },
+                                        {
+                                            "id": "3ad6cc29-5bb6-4f11-aabf-3f6354df7117",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Block! You took\nreduced damage.",
+                                                    "You have $23$\nhealth remaining."
+                                                ]
                                             }
                                         },
                                         {
@@ -3162,7 +3170,10 @@
                                             "id": "634b3708-5221-4a6c-b53d-449433051caf",
                                             "command": "EVENT_TEXT",
                                             "args": {
-                                                "text": "The gladiator\nattacks"
+                                                "text": [
+                                                    "The Gladiator\nattacks!",
+                                                    "You have $23$\nhealth remaining"
+                                                ]
                                             }
                                         },
                                         {
@@ -3231,7 +3242,7 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "you have defeated\nthe Gladiator."
+                                                    "You have defeated\nthe Gladiator."
                                                 ]
                                             }
                                         },
@@ -3347,7 +3358,7 @@
                                     "id": "50cea055-035e-48a1-8181-6aa7ffc9c4ed",
                                     "command": "EVENT_TEXT",
                                     "args": {
-                                        "text": "Its locked I\nshould go talk\nto Ceaser"
+                                        "text": "Its locked I\nshould go talk\nto Ceaser."
                                     }
                                 },
                                 {
@@ -3401,12 +3412,12 @@
                 0,
                 0,
                 0,
+                224,
+                7,
                 0,
                 0,
-                0,
-                0,
-                0,
-                0,
+                32,
+                4,
                 0,
                 255,
                 127,
@@ -3773,8 +3784,8 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "You attacked the\nenemy! ",
-                                            "The Gladiator has\n$22$ health\nremaining"
+                                            "You attacked the\nGladiator!",
+                                            "The Gladiator has\n$22$ health\nremaining."
                                         ]
                                     }
                                 },
@@ -3829,16 +3840,6 @@
                                             }
                                         },
                                         {
-                                            "id": "d87c7ea0-7a99-4a38-909f-c3c2a28ce38a",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": [
-                                                    "Block! You took\nreduced damage!",
-                                                    "You have $23$\nhealth remaining"
-                                                ]
-                                            }
-                                        },
-                                        {
                                             "id": "d346380b-0644-439e-84d8-0a8531457e05",
                                             "command": "EVENT_VARIABLE_MATH",
                                             "args": {
@@ -3849,6 +3850,16 @@
                                                 "value": 3,
                                                 "minValue": "0",
                                                 "maxValue": "255"
+                                            }
+                                        },
+                                        {
+                                            "id": "d87c7ea0-7a99-4a38-909f-c3c2a28ce38a",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Block! You took\nreduced damage.",
+                                                    "You have $23$\nhealth remaining."
+                                                ]
                                             }
                                         },
                                         {
@@ -3875,8 +3886,8 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "The gladiator\nattacks! You took\n5 damage",
-                                                    "you have $23$\nhealth remaining"
+                                                    "The Gladiator\nattacks!",
+                                                    "You have $23$\nhealth remaining"
                                                 ]
                                             }
                                         },
@@ -3938,7 +3949,7 @@
                                             "id": "de49e124-2dac-4510-a3a1-cc8936221d1e",
                                             "command": "EVENT_TEXT",
                                             "args": {
-                                                "text": "you have defeated\nthe Gladiator!"
+                                                "text": "You have defeated\nthe Gladiator!"
                                             }
                                         },
                                         {
@@ -4085,8 +4096,8 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "You attacked the\nenemy! ",
-                                            "The Gladiator has\n$22$ health\nremaining"
+                                            "You attacked the\nGladiator!",
+                                            "The Gladiator has\n$22$ health\nremaining."
                                         ]
                                     }
                                 },
@@ -4141,16 +4152,6 @@
                                             }
                                         },
                                         {
-                                            "id": "e24296af-5fb9-459a-9c40-c0c620e0d737",
-                                            "command": "EVENT_TEXT",
-                                            "args": {
-                                                "text": [
-                                                    "Block! You took\nreduced damage!",
-                                                    "You have $23$\nhealth remaining"
-                                                ]
-                                            }
-                                        },
-                                        {
                                             "id": "d31992a6-fd47-49b3-a148-f99f38f8557e",
                                             "command": "EVENT_VARIABLE_MATH",
                                             "args": {
@@ -4161,6 +4162,16 @@
                                                 "value": 3,
                                                 "minValue": "0",
                                                 "maxValue": "255"
+                                            }
+                                        },
+                                        {
+                                            "id": "e24296af-5fb9-459a-9c40-c0c620e0d737",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Block! You took\nreduced damage.",
+                                                    "You have $23$\nhealth remaining."
+                                                ]
                                             }
                                         },
                                         {
@@ -4187,8 +4198,8 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "The gladiator\nattacks! You took\n5 damage",
-                                                    "you have $23$\nhealth remaining"
+                                                    "The Gladiator\nattacks!",
+                                                    "You have $23$\nhealth remaining"
                                                 ]
                                             }
                                         },
@@ -4250,7 +4261,7 @@
                                             "id": "19f5ad8b-ea8e-421d-8616-204d91c06e95",
                                             "command": "EVENT_TEXT",
                                             "args": {
-                                                "text": "you have defeated\nthe Gladiator!"
+                                                "text": "You have defeated\nthe Gladiator!"
                                             }
                                         },
                                         {
@@ -4404,7 +4415,7 @@
                                     "command": "EVENT_TEXT",
                                     "args": {
                                         "text": [
-                                            "You attacked the\nThief! Dealing 5\ndamage!",
+                                            "You attacked the\nThief!",
                                             "The Thief has $29$\nhealth remaining."
                                         ]
                                     }
@@ -4463,7 +4474,10 @@
                                             "id": "92aaf51d-1237-4038-888e-c806454aa911",
                                             "command": "EVENT_TEXT",
                                             "args": {
-                                                "text": "You blocked!\nTaking reduced\ndamage."
+                                                "text": [
+                                                    "Block! You took\nreduced damage.",
+                                                    "You have $23$\nhealth remaining."
+                                                ]
                                             }
                                         },
                                         {
@@ -4503,7 +4517,7 @@
                                             "command": "EVENT_TEXT",
                                             "args": {
                                                 "text": [
-                                                    "The Thief\nattacks! You took\n5 damage.",
+                                                    "The Thief\nattacks!",
                                                     "You have $23$\nhealth remaining."
                                                 ]
                                             }
@@ -4566,7 +4580,7 @@
                                             "id": "2f81f55e-1ba2-4f50-8c46-fe664259bb69",
                                             "command": "EVENT_TEXT",
                                             "args": {
-                                                "text": "you have defeated\nthe Thief!"
+                                                "text": "You have defeated\nthe Thief!"
                                             }
                                         },
                                         {
@@ -4819,7 +4833,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1571970585742
+            "_v": 1572020107356
         }
     ]
 }
